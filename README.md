@@ -1,8 +1,8 @@
 ### Hey! I'm Eray. You can see my active projects that I have developed on the web here. 👋
-
-**erayates/erayates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+- ### Active Technologies
+- HTML5,CSS3,JavaScript,React,PHP
+- ### Passive Technologies
+- Python,C,C++,C#
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Backend technologies
