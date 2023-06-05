@@ -1,9 +1,9 @@
 # Hey, I'm Eray Ates.
 # 💫 About Me
 - 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and Next.js (Typescript)
 - 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Exploring New Technologies.
+- 🤔 I’m looking for help with exploring new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eraayatees) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eraayatees) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/erayates) 
