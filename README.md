@@ -1,7 +1,6 @@
 # Hey, I'm Eray Ates.
 # 💫 About Me
 - 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Node.js and Next.js (Typescript)
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with exploring new technologies.
 
