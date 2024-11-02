@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **-**
 
-- 👨‍💻 All of my projects are available at [eates.vercel.app](eates.vercel.app)
+- 👨‍💻 All of my projects are available at [here](https://eates.vercel.app)
 
-- 📝 I regularly write articles on [https://medium.com/@erayatesdev](https://medium.com/@erayatesdev)
+- 📝 I regularly write articles on [Medium](https://medium.com/@erayatesdev)
 
 - 💬 Ask me about **react, next.js etc.**
 
